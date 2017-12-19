@@ -1,2 +1,5 @@
 # hello-world
-testing
+My favorite things:
+- books
+- hiking
+- ponies
